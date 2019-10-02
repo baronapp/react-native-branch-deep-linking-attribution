@@ -1,3 +1,7 @@
+2019-10-02  Version 3.2.0
+  - Requires RN < 0.60
+  - Uses native Branch SDKs 3.2.0 (Android), 0.28.1 (iOS).
+
 2019-07-25  Version 3.1.1
   - Requires RN < 0.60
   - Fix a runtime iOS issue in 3.1.0
